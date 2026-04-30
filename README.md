@@ -13,12 +13,19 @@ Aspiring **AI/ML Engineer** focused on building data-driven solutions and contin
 
 ## 🔧 Skills
 
-* Python
+Python
 * NumPy & Pandas
 * Data Analysis & Visualization
 * Machine Learning (Scikit-learn)
 * Matplotlib & Seaborn
-
+* Deep Learning (PyTorch)
+* Neural Networks
+* Natural Language Processing (NLP)
+* Computer Vision
+* Model Evaluation
+* Feature Engineering
+* Git & GitHub
+* VS Code & Jupyter Notebook
 ---
 
 ## 📫 Connect With Me
