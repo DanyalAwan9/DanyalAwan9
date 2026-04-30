@@ -4,32 +4,32 @@
 
 Aspiring **AI/ML Engineer** focused on building data-driven solutions and continuously improving my understanding of Machine Learning and Deep Learning.
 
-* 🎯 Currently learning: **Deep Learning (PyTorch)**
-* 🧠 Focus: Machine Learning, Neural Networks
-* 💻 Tech Stack: Python, NumPy, Pandas, Scikit-learn
-* 📍 Based in Pakistan
+- 🎯 Currently learning: Deep Learning (PyTorch)  
+- 🧠 Focus: Machine Learning, Neural Networks  
+- 💻 Tech Stack: Python, NumPy, Pandas, Scikit-learn  
+- 📍 Based in Pakistan  
 
 ---
 
 ## 🔧 Skills
 
-Python
-* NumPy & Pandas
-* Data Analysis & Visualization
-* Machine Learning (Scikit-learn)
-* Matplotlib & Seaborn
-* Deep Learning (PyTorch)
-* Neural Networks
-* Natural Language Processing (NLP)
-* Computer Vision
-* Model Evaluation
-* Feature Engineering
-* Git & GitHub
-* VS Code & Jupyter Notebook
+- Python  
+- NumPy & Pandas  
+- Data Analysis & Visualization  
+- Machine Learning (Scikit-learn)  
+- Matplotlib & Seaborn  
+- Deep Learning (PyTorch)  
+- Neural Networks  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+- Model Evaluation  
+- Feature Engineering  
+- Git & GitHub  
+- VS Code & Jupyter Notebook  
+
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/danyal-awan-7388a4271
-* GitHub: https://github.com/DanyalAwan9
-
+- LinkedIn: https://www.linkedin.com/in/danyal-awan-7388a4271  
+- GitHub: https://github.com/DanyalAwan9  
