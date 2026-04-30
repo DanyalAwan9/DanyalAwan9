@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Danyal 👋
 
-<!--
-**DanyalAwan9/DanyalAwan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Aspiring **AI/ML Engineer** focused on building data-driven solutions and continuously improving my understanding of Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎯 Currently learning: **Deep Learning (PyTorch)**
+* 🧠 Focus: Machine Learning, Neural Networks
+* 💻 Tech Stack: Python, NumPy, Pandas, Scikit-learn
+* 📍 Based in Pakistan
+
+---
+
+## 🔧 Skills
+
+* Python
+* NumPy & Pandas
+* Data Analysis & Visualization
+* Machine Learning (Scikit-learn)
+* Matplotlib & Seaborn
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/danyal-awan-7388a4271
+* GitHub: https://github.com/DanyalAwan9
+
